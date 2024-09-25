@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+  .p-toast {
+    width: 90% !important; /* Make sure it fits within mobile screens */
+    left: 5% !important;    /* Center it horizontally */
+    top: 10px !important;   /* Position slightly from the top */
+  }
+}
